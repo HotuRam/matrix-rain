@@ -1,7 +1,7 @@
 # matrix rain effect:
 
 - In windows open cmd
-- follow the code write in the code image 
+- follow the code, written in the code image 
 
 gif created from - https://hnet.com/video-to-gif/
 
