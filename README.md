@@ -3,18 +3,7 @@ gif created from - https://hnet.com/video-to-gif/
 
 ## Green matrix
  <img align="right" alt="GIF" src="https://github.com/HotuRam/cmatrix/blob/main/gifs/matrix.gif?raw=true" width="910" height="450" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-<!-- ##  Color matrix -->
 
 
 
